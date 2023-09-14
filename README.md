@@ -1,8 +1,8 @@
-# SearchRepositories: Search repositories on GitHub
+# SearchRepo: Search repositories on GitHub
 This is the tool developed for searching repositories on Github.
 
 
-## What is SearchRepositories?
+## What is SearchRepo?
 A tool that collects projects on GitHub based on the input keywords in names, Description, Topics and Readme. Then, it excludes some repositories based on defined symptomes in the code.
 
 _1. Repository collection_
@@ -11,7 +11,7 @@ It identifies projects on GitHub using Github search API (https://docs.github.co
 We excluded the forks of another repository to prevent duplicate projects.
 We had to select GitHub projects as, practically, we cannot analyse all the C or C++ projects. Therefore, we set up several selection criteria such as REST API related keywords, minimum number of stars and forks, minimum size of the projects, date of the last pushed, and some symptoms in the config.json. It firstly collect projects based on the keywords, then filters the projects based on the symptoms in their code.
 
-## How to configure Wasmizer?
+## How to configure SearchRepo?
 
 In order to configure the SearchRepositories, there is a config.json file in the project. It contains: 
 
@@ -31,14 +31,14 @@ In order to configure the SearchRepositories, there is a config.json file in the
 
 * "github_username" --> Authentication of APIs needs token and username of a github account. You should input your github username.
 
-## How Wasmizer works?
+## How SearchRepo works?
 1- It searches for repositories based on the keywords and save them in the AllRepositories.csv file.
 
 2- It filters repositories that include the symptoms and save them in the FilteredRepositories.csv file.
 
-## How to launch Wasmizer?
+## How to launch SearchRepo?
 
-You can clone and run the SearchRepositories:
+You can clone and run the SearchRepo:
 
 1- Clone the project: Open a Command Prompt (cmd.exe), use this command: git clone https://github.com/arash-mazidi/SearchRepositories.git
 
