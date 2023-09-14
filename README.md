@@ -9,7 +9,7 @@ _1. Repository collection_
 
 It identifies projects on GitHub using Github search API (https://docs.github.com/en/rest/search?apiVersion=2022-11-28). There are some limitations on the search API such as rate limitation that we make a delay between requests to overcome this limitation. Another limitation is the maximum number of retrieved repositories in the search API that is 1000. We overcome this limitation by defining short period of date to have less than 1000 repositories. In addition, each page includes 100 repositories and we use a loop to have repositories in all pages.
 We excluded the forks of another repository to prevent duplicate projects.
-We had to select GitHub projects as, practically, we cannot analyse all the C or C++ projects. Therefore, we set up several selection criteria such as REST API related keywords, minimum number of stars and forks, minimum size of the projects, date of the last pushed, and some symptoms in the config.json. It firstly collect projects based on the keywords, then filters the projects based on the symptoms in their code.
+We had to select GitHub projects as, practically, we cannot analyse all projects. Therefore, we set up several selection criteria such as REST API related keywords, minimum number of stars and forks, minimum size of the projects, date of the last pushed, and some symptoms in the config.json. It firstly collect projects based on the keywords, then filters the projects based on the symptoms in their code.
 
 ## How to configure SearchRepo?
 
