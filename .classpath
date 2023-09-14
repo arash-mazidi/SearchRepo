@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-configuration-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/dom-2.3.0-jaxb-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/fluent-hc-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/jackson-annotations-2.10.0.pr1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/jackson-core-2.10.0.pr1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/JavaEWAH-1.1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/java-sizeof-0.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/jul-to-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/log4j-to-slf4j-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/org.eclipse.jgit-6.4.0.202211300538-r.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/snakeyaml-1.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/am57/eclipse-workspace/Search_repositories/lib/ST4-4.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
