@@ -13,7 +13,7 @@ We had to select GitHub projects as, practically, we cannot analyse all the C or
 
 ## How to configure SearchRepo?
 
-In order to configure the SearchRepositories, there is a config.json file in the project. It contains: 
+In order to configure the SearchRepo, there is a config.json file in the project. It contains: 
 
 * "keywords" --> It collects repositories based on the keywords. It means, if a repository has the keywords in the name, topics, description, and readme, it will be collected.
 
@@ -44,8 +44,8 @@ You can clone and run the SearchRepo:
 
 2- Open the project in Eclipse IDE
 
-3- There is a lib folder in the project that contains libraries that are needed to run this tool. You can import all libraries in the classpath of the project. We tested the SearchRepositories on the Eclipse IDE.
+3- There is a lib folder in the project that contains libraries that are needed to run this tool. You can import all libraries in the classpath of the project. We tested the SearchRepo on the Eclipse IDE.
 
 4- Set up the config.json file (It is explained in the previous sections).
 
-5- Run the SearchRepositories by running the SearchRepositories/main/src/Search/searchRepo.java.
+5- Run the SearchRepo by running the SearchRepositories/main/src/Search/searchRepo.java.
