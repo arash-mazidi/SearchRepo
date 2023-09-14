@@ -25,6 +25,8 @@ In order to configure the SearchRepo, there is a config.json file in the project
 
 * "size" It collects repositories which their size are more than this number (KB).
 
+* "language" It collects repositories developed using this language.
+  
 * "token" --> It uses Github API in order to collect collect projects, and search code in the repositories. These APIs need a token that you should generate a Githab token on the Github website (https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). 
 
 * "username" --> Authentication of APIs needs token and username of a github account. You should input your github username.
