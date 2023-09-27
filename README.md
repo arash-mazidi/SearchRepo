@@ -46,8 +46,6 @@ You can clone and run the SearchRepo:
 
 2- Open the project in Eclipse IDE
 
-3- There is a lib folder in the project that contains libraries that are needed to run this tool. You can import all libraries in the classpath of the project. We tested the SearchRepo on the Eclipse IDE.
+3- Set up the config.json file (It is explained in the previous sections).
 
-4- Set up the config.json file (It is explained in the previous sections).
-
-5- Run the SearchRepo by running the SearchRepositories/main/src/Search/searchRepo.java.
+4- Run the SearchRepo by running the SearchRepositories/main/src/Search/searchRepo.java.
